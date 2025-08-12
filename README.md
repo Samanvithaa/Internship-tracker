@@ -27,8 +27,10 @@ A web application to help track internship applications, statuses, and deadlines
    npm install
    
 2. Start the server:
+   ```bash
    node index.js
    Or with nodemon for auto-restart:
+   ```bash
    npx nodemon index.js
 
 3. Server should be running at:
